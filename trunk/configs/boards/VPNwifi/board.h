@@ -1,8 +1,8 @@
 /* NEWIFI3(d2) */
 
-#define BOARD_PID		"7620A-VPNwifi"
-#define BOARD_NAME		"7620A-VPNwifi"
-#define BOARD_DESC		"7620A-VPNwifi Wireless Router"
+#define BOARD_PID		"VPNwifi"
+#define BOARD_NAME		"VPNwifi"
+#define BOARD_DESC		"VPNwifi Wireless Router"
 #define BOARD_VENDOR_NAME	"Diting Technology"
 #define BOARD_VENDOR_URL	"http://www.newifi.com/"
 #define BOARD_MODEL_URL		"http://www.newifi.com/"
